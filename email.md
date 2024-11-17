@@ -29,7 +29,7 @@ Meanwhile, the `$` is similar to the `^` however it indicates a search that ends
 
 ### Quantifiers
 
-The above example also includes `{2,6}`
+The above example also includes `{2,6}`. This set is known as quantifiers. Quantifiers limit the search to a minimum and maximum. This specific parameter is stating that it wants to 
 
 ### Grouping Constructs
 
